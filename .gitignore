@@ -1,0 +1,11 @@
+# Dependencies — installed via npm install
+node_modules/
+
+# Playwright auto-generated folders
+playwright-report/
+test-results/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
